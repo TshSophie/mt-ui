@@ -1,6 +1,7 @@
 import Vue from 'vue'
 import App from './App.vue'
-import MeUI from '../src/index'
+// import MeUI from '../src/index'
+import MeUI from '../lib/mt-vue-ui.common'
 import router from './router'
 Vue.use(MeUI)
 
